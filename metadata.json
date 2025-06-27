@@ -1,0 +1,6 @@
+{
+  "name": "Cookie Skipper AI",
+  "description": "An intelligent Chrome extension that uses Gemini to automatically find and click cookie consent banners, decluttering your web browsing experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
